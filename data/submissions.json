@@ -1,0 +1,70 @@
+[
+  {
+    "id": "cun-m1a9xk2-7f8a",
+    "fullName": "Carlos Andrés Mendoza",
+    "email": "carlos_mendozap@cun.edu.co",
+    "commercialLine": "B2B",
+    "answers": {
+      "1": "A",
+      "2": "A",
+      "3": "A",
+      "4": "A"
+    },
+    "score": 4,
+    "totalQuestions": 4,
+    "percentage": 100,
+    "passed": true,
+    "submittedAt": "10 de septiembre de 2026, 10:15 a. m."
+  },
+  {
+    "id": "cun-m1b3yk4-8e9b",
+    "fullName": "Valentina Ospina Gómez",
+    "email": "valentina_ospinag@cun.edu.co",
+    "commercialLine": "B2C",
+    "answers": {
+      "1": "A",
+      "2": "A",
+      "3": "A",
+      "4": "A"
+    },
+    "score": 4,
+    "totalQuestions": 4,
+    "percentage": 100,
+    "passed": true,
+    "submittedAt": "10 de septiembre de 2026, 11:20 a. m."
+  },
+  {
+    "id": "cun-m1c8zj1-3c4d",
+    "fullName": "Diego Fernando Rojas",
+    "email": "diego_rojas@cun.edu.co",
+    "commercialLine": "Ambas",
+    "answers": {
+      "1": "A",
+      "2": "B",
+      "3": "A",
+      "4": "A"
+    },
+    "score": 3,
+    "totalQuestions": 4,
+    "percentage": 75,
+    "passed": true,
+    "submittedAt": "10 de septiembre de 2026, 11:45 a. m."
+  },
+  {
+    "id": "cun-m1d2ak9-5x1e",
+    "fullName": "Camila Andrea Torres",
+    "email": "camila_torres@cun.edu.co",
+    "commercialLine": "B2B",
+    "answers": {
+      "1": "C",
+      "2": "C",
+      "3": "A",
+      "4": "A"
+    },
+    "score": 2,
+    "totalQuestions": 4,
+    "percentage": 50,
+    "passed": false,
+    "submittedAt": "10 de septiembre de 2026, 12:30 p. m."
+  }
+]

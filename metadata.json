@@ -1,0 +1,6 @@
+{
+  "name": "Quiz Habilidades Comerciales CUN",
+  "description": "Evaluación rápida de 4 preguntas sobre la capacitación comercial CUN: venta personal según el Dr. Rincón, 5 pasos del proceso B2B y fundamentos B2C.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
